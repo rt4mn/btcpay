@@ -1,4 +1,4 @@
-This is a fork to test recurring contributions. 
+This is a fork to test recurring contributions, see: https://github.com/rukykf/btcpay/issues/5#issuecomment-862256002
 
 
 # BTCPay
