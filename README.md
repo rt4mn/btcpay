@@ -1,3 +1,6 @@
+This is a fork to test recurring contributions. 
+
+
 # BTCPay
 
 Payment Processor Extension to accept Bitcoin payments by integrating CiviCRM with a self-hosted BTCPay Server.
