@@ -39,7 +39,7 @@ return array(
       'class_name' => 'Payment_Btcpay',
       'url_site_default' => 'https://testnet.demo.btcpayserver.org/',    // to be replaced with url of self-hosted btcpay server url during payment processor creation
       'url_site_test_default' => 'https://testnet.demo.btcpayserver.org/',
-      'is_recur' => 0,
+      'is_recur' => 1,
       'billing_mode' => 1,
     ),
   )
